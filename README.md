@@ -1,17 +1,17 @@
 ### <div align="center"></div>  
   
 
-- 🔭 I’m currently working on [aioreq](https://github.com/karosis88/aioreq)  
+- I’m currently working on [aioreq](https://github.com/karosis88/aioreq)  
   
 
-- 🌱 I’m currently learning [ASGI](https://asgi.readthedocs.io/en/latest/) and [starlette](https://github.com/encode/starlette)  
+- I’m currently learning [ASGI](https://asgi.readthedocs.io/en/latest/) and [starlette](https://github.com/encode/starlette)  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="35%">
 
 
 
@@ -74,28 +74,8 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
+## Views
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=karosis88&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
